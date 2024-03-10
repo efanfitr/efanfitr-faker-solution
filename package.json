@@ -1,0 +1,34 @@
+{
+  "name": "efanfitr-faker-solution",
+  "version": "1.0.0",
+  "description": "Generates fake data using Faker Random User API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:data": "node src/index.js"
+  },
+  "keywords": [
+    "efanfitr-faker-solution",
+    "faker",
+    "dummy",
+    "utility",
+    "generator",
+    "easy",
+    "to",
+    "use"
+  ],
+  "author": "efanfitr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/todstick/efanfitr-faker-solution.git"
+  },
+  "bugs": {
+    "url": "https://github.com/todstick/efanfitr-faker-solution/issues"
+  },
+  "homepage": "https://github.com/todstick/efanfitr-faker-solution#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "efanfitr-faker-solution": "1.0.0"
+  }
+}
