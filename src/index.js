@@ -1,7 +1,8 @@
 const axios = require('axios')
 const { FAKER_API_URL } = require('./constants')
 const { mapResponse } = require('./utils')
-
+// package added. 
+console.log('package added.')
 /**
  * Generates fake data using Faker API.
  * @async

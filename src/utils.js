@@ -20,5 +20,6 @@ const mapResponse = (data) => {
     picture: data.picture,
   }
 }
-
+// import to module.
+console.log('import to module.')
 module.exports = { mapResponse }
